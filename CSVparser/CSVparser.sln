@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSVparser", "CSVparser\CSVparser.vcxproj", "{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Debug|x64.ActiveCfg = Debug|x64
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Debug|x64.Build.0 = Debug|x64
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Debug|x86.Build.0 = Debug|Win32
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Release|x64.ActiveCfg = Release|x64
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Release|x64.Build.0 = Release|x64
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Release|x86.ActiveCfg = Release|Win32
+		{01BF061C-F8CA-47B2-93D1-3E554FAA40C6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE9564B-EF40-4B89-B34D-46C4657C4ADC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+*0*,*grain, color* *a,b,c*
+1,(*,* *,* *,*)
+2,(*,**,**,*)
+3,******
+4,*"Her, silenced, rowdy"*
+5,"Her*,* silenced*,* rowdy"
